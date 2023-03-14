@@ -1,2 +1,2 @@
-# DIO_Projetos
-Repositório para inserir todos os projetos do DIO
+# Projetos do BootCamp da DIO
+Repositório criado para adicionar todos os Desáfios do bootCamp da DIO.
